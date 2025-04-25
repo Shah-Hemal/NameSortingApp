@@ -1,0 +1,14 @@
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\bin\Debug\net8.0\NameSorter.exe
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\bin\Debug\net8.0\NameSorter.deps.json
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\bin\Debug\net8.0\NameSorter.runtimeconfig.json
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\bin\Debug\net8.0\NameSorter.dll
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\bin\Debug\net8.0\NameSorter.pdb
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.AssemblyInfo.cs
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.dll
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\refint\NameSorter.dll
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.pdb
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\NameSorter.genruntimeconfig.cache
+C:\Users\visha\Desktop\JOBS_Canada\Jobs_2024\Past_Interview_Questions\NameSorter\obj\Debug\net8.0\ref\NameSorter.dll
